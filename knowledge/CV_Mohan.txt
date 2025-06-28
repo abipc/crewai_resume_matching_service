@@ -1,0 +1,83 @@
+MOHAN KUMAR
+Software Engineer | Data Scientist | AI/ML Specialist
+
+CONTACT INFORMATION
+Email: mohan.kumar@email.com
+Phone: +1 (555) 123-4567
+LinkedIn: linkedin.com/in/mohankumar
+GitHub: github.com/mohankumar
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer and data scientist with 5+ years of expertise in developing scalable applications, implementing machine learning solutions, and driving data-driven insights. Proven track record of leading cross-functional teams and delivering high-impact projects in fast-paced environments.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Java, SQL, R, Scala
+Frameworks & Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, React, Node.js, Django, Flask
+Cloud & DevOps: AWS, Azure, Docker, Kubernetes, Jenkins, Git, CI/CD
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch, BigQuery
+Machine Learning: Deep Learning, NLP, Computer Vision, Time Series Analysis
+Tools & Platforms: Jupyter, Tableau, Power BI, Apache Spark, Apache Kafka
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | San Francisco, CA
+January 2022 - Present
+• Led development of a real-time recommendation system serving 10M+ users, improving engagement by 25%
+• Architected and implemented microservices using Python, Docker, and Kubernetes
+• Mentored 3 junior developers and conducted code reviews for team of 8 engineers
+• Collaborated with data science team to integrate ML models into production systems
+• Reduced system latency by 40% through optimization of database queries and caching strategies
+
+Data Scientist | DataFlow Analytics | San Francisco, CA
+March 2020 - December 2021
+• Developed predictive models for customer churn analysis achieving 85% accuracy
+• Built ETL pipelines processing 100GB+ of daily data using Apache Spark and Python
+• Created interactive dashboards using Tableau and Power BI for executive reporting
+• Implemented A/B testing framework resulting in 15% increase in conversion rates
+• Published 2 research papers on machine learning applications in business analytics
+
+Software Engineer | StartupXYZ | San Francisco, CA
+June 2018 - February 2020
+• Built full-stack web applications using React, Node.js, and PostgreSQL
+• Developed RESTful APIs serving 1M+ requests daily
+• Implemented automated testing increasing code coverage to 90%
+• Participated in agile development process with 2-week sprint cycles
+• Contributed to open-source projects and maintained technical documentation
+
+EDUCATION
+Master of Science in Computer Science | Stanford University | 2018
+• GPA: 3.8/4.0
+• Specialization: Artificial Intelligence and Machine Learning
+• Thesis: "Deep Learning Approaches for Natural Language Processing"
+
+Bachelor of Science in Computer Science | University of California, Berkeley | 2016
+• GPA: 3.7/4.0
+• Minor: Mathematics
+• Dean's List: 3 semesters
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate
+• Google Cloud Professional Data Engineer
+• Microsoft Certified: Azure Data Scientist Associate
+
+PROJECTS
+• Built an AI-powered resume parser using NLP and computer vision (GitHub: 500+ stars)
+• Developed a real-time sentiment analysis tool for social media monitoring
+• Created a recommendation system for e-commerce platform using collaborative filtering
+• Implemented automated data pipeline for financial market analysis
+
+PUBLICATIONS
+• "Deep Learning for Natural Language Processing: A Comprehensive Survey" - IEEE Conference 2021
+• "Optimizing Recommendation Systems for E-commerce Applications" - ACM SIGKDD 2020
+
+LANGUAGES
+• English (Native)
+• Hindi (Fluent)
+• Spanish (Conversational)
+
+INTERESTS
+• Open Source Contribution
+• Machine Learning Research
+• Competitive Programming
+• Hiking and Photography 
