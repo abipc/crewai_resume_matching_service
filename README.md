@@ -43,8 +43,8 @@ cp env.example .env
 ## Quick Start
 
 1. Save your resume in the `knowledge/` directory:
-   * **Supported formats**: PDF (.pdf), Text (.txt), Markdown (.md)
-   * **Sample resume**: `knowledge/CV_Mohan.txt` is provided as an example
+   * **Supported formats**: PDF (.pdf)
+   * **Sample resume**: `knowledge/<CV_Name>.pdf` is provided as an example
    * **PDF support**: The system can parse PDF resumes using PyPDF2
 
 2. Configure the resume path in `main.py`:
@@ -86,15 +86,13 @@ The system uses three specialized AI agents:
 The system supports multiple resume formats:
 
 - **PDF (.pdf)**: Full PDF parsing with PyPDF2
-- **Text (.txt)**: Plain text resumes
-- **Markdown (.md)**: Markdown formatted resumes
 
 The resume parser automatically detects the file format and processes accordingly.
 
 ## Requirements
 
 * Python `>= 3.10` and `< 3.13`
-* Resume file (PDF, TXT, or MD format)
+* Resume file (PDF)
 * Job posting URL
 * Company name
 
