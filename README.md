@@ -49,11 +49,9 @@ cp env.example .env
 
 2. Configure the resume path in `main.py`:
    ```python
-   # For text resume
-   resume_path = "knowledge/CV_Mohan.txt"
    
    # For PDF resume
-   resume_path = "knowledge/CV_Mohan.pdf"
+   resume_path = "knowledge/<CV_Name>.pdf"
    ```
 
 3. Fill in the input data in `main.py`:
